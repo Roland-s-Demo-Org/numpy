@@ -7,7 +7,7 @@ beautifulsoup4
 
 # changelog.py
 pygithub
-gitpython>=3.1.30
+gitpython==3.1.58
 
 # uploading wheels
 twine
